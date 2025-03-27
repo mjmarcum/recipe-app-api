@@ -8,5 +8,5 @@ def add(x,y):
 
 def subtract(x,y):
   """ subtract x from y and return the result. """
-  return x + y
+  return y - x
 
